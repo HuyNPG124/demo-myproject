@@ -12,7 +12,7 @@ using namespace std;
 int n, a[100], ok;
 void ktao(){
 	for(int i = 1; i <= n; i++){
-		a[i] = 0;
+		a[i] = 0;//
 	}
 }
 void sinh(){
